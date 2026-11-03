@@ -1,0 +1,85 @@
+Case,Size,Algorithm,Time_us
+Random,1000,Bubble,686
+Random,1000,Selection,663
+Random,1000,Insertion,58
+Random,1000,Merge,452
+Random,1000,Heap,99
+Random,1000,Quick (first),53
+Random,1000,Quick (median3),52
+Random,5000,Bubble,35413
+Random,5000,Selection,7710
+Random,5000,Insertion,1527
+Random,5000,Merge,420
+Random,5000,Heap,588
+Random,5000,Quick (first),1653
+Random,5000,Quick (median3),337
+Random,10000,Bubble,109460
+Random,10000,Selection,24740
+Random,10000,Insertion,6362
+Random,10000,Merge,1121
+Random,10000,Heap,1877
+Random,10000,Quick (first),649
+Random,10000,Quick (median3),751
+Random,50000,Bubble,3574055
+Random,50000,Selection,425841
+Random,50000,Insertion,160408
+Random,50000,Merge,5217
+Random,50000,Heap,5715
+Random,50000,Quick (first),3446
+Random,50000,Quick (median3),3649
+Sorted,1000,Bubble,1
+Sorted,1000,Selection,187
+Sorted,1000,Insertion,1
+Sorted,1000,Merge,22
+Sorted,1000,Heap,48
+Sorted,1000,Quick (first),241
+Sorted,1000,Quick (median3),9
+Sorted,5000,Bubble,2
+Sorted,5000,Selection,5928
+Sorted,5000,Insertion,5
+Sorted,5000,Merge,134
+Sorted,5000,Heap,256
+Sorted,5000,Quick (first),5992
+Sorted,5000,Quick (median3),52
+Sorted,10000,Bubble,3
+Sorted,10000,Selection,17291
+Sorted,10000,Insertion,9
+Sorted,10000,Merge,264
+Sorted,10000,Heap,640
+Sorted,10000,Quick (first),24225
+Sorted,10000,Quick (median3),110
+Sorted,50000,Bubble,13
+Sorted,50000,Selection,429267
+Sorted,50000,Insertion,65
+Sorted,50000,Merge,2156
+Sorted,50000,Heap,4244
+Sorted,50000,Quick (first),653173
+Sorted,50000,Quick (median3),8550
+Reversed,1000,Bubble,851
+Reversed,1000,Selection,194
+Reversed,1000,Insertion,116
+Reversed,1000,Merge,21
+Reversed,1000,Heap,55
+Reversed,1000,Quick (first),268
+Reversed,1000,Quick (median3),22
+Reversed,5000,Bubble,22297
+Reversed,5000,Selection,9120
+Reversed,5000,Insertion,2636
+Reversed,5000,Merge,113
+Reversed,5000,Heap,287
+Reversed,5000,Quick (first),5880
+Reversed,5000,Quick (median3),124
+Reversed,10000,Bubble,75320
+Reversed,10000,Selection,19123
+Reversed,10000,Insertion,10101
+Reversed,10000,Merge,245
+Reversed,10000,Heap,665
+Reversed,10000,Quick (first),23051
+Reversed,10000,Quick (median3),251
+Reversed,50000,Bubble,1944621
+Reversed,50000,Selection,707993
+Reversed,50000,Insertion,274012
+Reversed,50000,Merge,1507
+Reversed,50000,Heap,3297
+Reversed,50000,Quick (first),686080
+Reversed,50000,Quick (median3),1494
